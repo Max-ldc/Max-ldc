@@ -1,23 +1,25 @@
 # Salut ! Moi c'est **Maxence** 👋
-<img src="pop-salue.gif" width="300px" align="center">
+<img src="pop-salue.gif" width="300px" align="middle">
 
 ## **Je suis un Développeur Web**
-Actuellement en formation Développeur Web et Web Mobile (niveau 5, Bac +2), retrouvez mes différents projets.
+Actuellement en formation Développeur Web et Web Mobile *(niveau 5, Bac +2)*.
 
-Je suis en recherche d'un stage pour la période du 17 Juillet au 13 Septembre 2023
+Je recherche un stage pour la période du 17 Juillet au 13 Septembre 2023
 
 ## **Mes Compétences**
 <img src="mountain.jpg" align="right" width="240px"/>
 
 *Acquises lors de ma formation (en cours)*
 
-### Langages
+### Langages & Frameworks
 [![HTML5](https://img.shields.io/badge/-HTML5-00003C?&logo=HTML5&logoColor=E34F26)](https://www.w3.org/html/)
 [![CSS3](https://img.shields.io/badge/-CSS3-00003C?&logo=CSS3&logoColor=1572B6)](https://developer.mozilla.org/fr/docs/Web/CSS)
 [![PHP](https://img.shields.io/badge/-PHP-00003C?&logo=PHP&logoColor=777BB4)](https://www.php.net)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-00003C?&logo=JavaScript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-### FrameWorks
+[![MarkDown](https://img.shields.io/badge/-Markdown-00003C?logo=Markdown&logoColor=white)](https://www.markdownguide.org/)
+
+
 [![Symfony](https://img.shields.io/badge/-Symfony-00003C?&logo=Symfony&logoColor=FFF)](https://symfony.com)
 [![Angular](https://img.shields.io/badge/-Angular-00003C?logo=Angular&logoColor=dd1b16)](https://angular.io/)
 
@@ -37,4 +39,4 @@ Je suis en recherche d'un stage pour la période du 17 Juillet au 13 Septembre 2
 [![Discord](https://img.shields.io/badge/-Maxence%20Leduc%234409-00003C?logo=Discord&logoColor=white)]()
 
 
-<img src="sponge-bob.gif" width="300px" align="center">
+<img src="sponge-bob.gif" width="300px" align="middle">
