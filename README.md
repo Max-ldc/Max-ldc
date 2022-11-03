@@ -1,11 +1,16 @@
 # Salut ! Moi c'est **Maxence** 👋
+<img src="pop-salue.gif" width="300px">
+
 ## **Je suis un Développeur Web**
 Actuellement en formation Développeur Web et Web Mobile (niveau 5, Bac +2), retrouvez mes différents projets.
 
 Je suis en recherche d'un stage pour la période du 17 Juillet au 13 Septembre 2023
 
 ## **Mes Compétences**
+<img src="mountain.jpg" align="right" width="200px"/>
+
 *Acquises lors de ma formation (en cours)*
+
 ### Langages
 [![HTML5](https://img.shields.io/badge/-HTML5-00003C?&logo=HTML5&logoColor=E34F26)](https://www.w3.org/html/)
 [![CSS3](https://img.shields.io/badge/-CSS3-00003C?&logo=CSS3&logoColor=1572B6)](https://developer.mozilla.org/fr/docs/Web/CSS)
@@ -30,3 +35,6 @@ Je suis en recherche d'un stage pour la période du 17 Juillet au 13 Septembre 2
 [![LinkedIn](https://img.shields.io/badge/-Maxence%20Leduc-00003C?logo=LinkedIn&logoColor=0e76a8)](https://www.linkedin.com/in/maxence-leduc-devweb/)
 [![Mail](https://img.shields.io/badge/-maxence.leduc@yahoo.com-00003C?logo=Mail.ru&logoColor=white)](mailto:maxence.leduc@yahoo.com)
 [![Discord](https://img.shields.io/badge/-Maxence%20Leduc%234409-00003C?logo=Discord&logoColor=white)]()
+
+
+<img src="sponge-bob.gif" width="300px">
