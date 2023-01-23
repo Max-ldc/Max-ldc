@@ -20,7 +20,7 @@ Je recherche un stage pour la période du 17 Juillet au 13 Septembre 2023
 [![MarkDown](https://img.shields.io/badge/-Markdown-00003C?logo=Markdown&logoColor=009688)](https://www.markdownguide.org/)
 
 
-[![Bootstrap]([..](https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap&logoColor=white))](https://getbootstrap.com/)
+[![Bootstrap]((https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap&logoColor=white))](https://getbootstrap.com/)
 [![Symfony](https://img.shields.io/badge/-Symfony-00003C?&logo=Symfony&logoColor=FFF)](https://symfony.com)
 [![Angular](https://img.shields.io/badge/-Angular-00003C?logo=Angular&logoColor=dd1b16)](https://angular.io/)
 
