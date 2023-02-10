@@ -23,6 +23,7 @@ Je recherche un stage pour la période du 17 Juillet au 13 Septembre 2023
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-00003C?&logo=Bootstrap&logoColor=E34F26)](https://getbootstrap.com/)
 [![Symfony](https://img.shields.io/badge/-Symfony-00003C?&logo=Symfony&logoColor=FFF)](https://symfony.com)
 [![Angular](https://img.shields.io/badge/-Angular-00003C?logo=Angular&logoColor=dd1b16)](https://angular.io/)
+[![MySQL](https://img.shields.io/badge/-MySQL-00003C?&logo=MySQL&logoColor=4479A1)](https://www.mysql.com/)
 
 ### Autres
 [![Git](https://img.shields.io/badge/-Git-00003C?logo=Git&logoColor=dd1b16)](https://git-scm.com/)
