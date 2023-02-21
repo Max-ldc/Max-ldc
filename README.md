@@ -32,6 +32,7 @@ Je recherche un stage pour la période du 17 Juillet au 13 Septembre 2023
 
 [![Trello](https://img.shields.io/badge/-Trello-00003C?logo=Trello&logoColor=0084D1)](https://trello.com/fr)
 [![Figma](https://img.shields.io/badge/-Figma-00003C?logo=Figma&logoColor=white)](https://www.figma.com/)
+[![Notion](https://img.shields.io/badge/-Notion-00003C?&logo=Notion&logoColor=white)](https://www.notion.so/)
 
 
 ## **Mon Contact**
