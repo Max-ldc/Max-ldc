@@ -4,7 +4,7 @@
 ## **Je suis un Développeur Web**
 Actuellement en formation Développeur Web et Web Mobile *(niveau 5, Bac +2)*.
 
-Je recherche un stage pour la période du 17 Juillet au 13 Septembre 2023
+Je recherche une entreprise pour une année en alternance de Concepteur Développeur d'Applications *(niveau 6, Bac+3)*. J'effectuerai cette année à CESI Grenoble, à partir d'Octobre 2023.
 
 ## **Mes Compétences**
 <img src="mountain.jpg" align="right" width="240px"/>
