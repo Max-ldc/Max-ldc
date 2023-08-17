@@ -2,9 +2,10 @@
 <img src="pop-salue.gif" width="300px" align="middle">
 
 ## **Je suis un Développeur Web**
-Actuellement en formation Développeur Web et Web Mobile *(niveau 5, Bac +2)*.
+Actuellement en formation Développeur Web et Web Mobile *(niveau 5, Bac +2)*, jusqu'au 27 Septembre 2023.
 
-Je recherche une entreprise pour une année en alternance de Concepteur Développeur d'Applications *(niveau 6, Bac+3)*. J'effectuerai cette année à CESI Grenoble, à partir d'Octobre 2023.
+Je commence une formation Concepteur Développeur d'Applications, le 09 Octobre 2023, en alternance. Mon école sera le CESI de Grenoble, et mon entreprise ST Microelectronics, à Crolles.
+
 
 ## **Mes Compétences**
 <img src="mountain.jpg" align="right" width="240px"/>
@@ -22,7 +23,8 @@ Je recherche une entreprise pour une année en alternance de Concepteur Dévelop
 
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-00003C?&logo=Bootstrap&logoColor=E34F26)](https://getbootstrap.com/)
 [![Symfony](https://img.shields.io/badge/-Symfony-00003C?&logo=Symfony&logoColor=FFF)](https://symfony.com)
-[![Angular](https://img.shields.io/badge/-Angular-00003C?logo=Angular&logoColor=dd1b16)](https://angular.io/)
+[![Vue.js](https://img.shields.io/badge/-vueJS-00003C?logo=vuedotjs&logoColor=#4FC08D)](https://vuejs.org/)
+[![Nuxt.js](https://img.shields.io/badge/-nuxt.js-00003C?logo=nuxtdotjs&logoColor=#00DC82)](https://nuxt.com/)
 [![MySQL](https://img.shields.io/badge/-MySQL-00003C?&logo=MySQL&logoColor=4479A1)](https://www.mysql.com/)
 
 ### Autres
