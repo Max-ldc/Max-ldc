@@ -23,8 +23,8 @@ Je commence une formation Concepteur Développeur d'Applications, le 09 Octobre 
 
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-00003C?&logo=Bootstrap&logoColor=E34F26)](https://getbootstrap.com/)
 [![Symfony](https://img.shields.io/badge/-Symfony-00003C?&logo=Symfony&logoColor=FFF)](https://symfony.com)
-[![Vue.js](https://img.shields.io/badge/-vueJS-00003C?logo=vuedotjs&logoColor=#4FC08D)](https://vuejs.org/)
-[![Nuxt.js](https://img.shields.io/badge/-nuxt.js-00003C?logo=nuxtdotjs&logoColor=#00DC82)](https://nuxt.com/)
+[![Vue.js](https://img.shields.io/badge/-Vue.js-00003C?logo=vuedotjs&logoColor=#4FC08D)](https://vuejs.org/)
+[![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00003C?logo=nuxtdotjs&logoColor=#00DC82)](https://nuxt.com/)
 [![MySQL](https://img.shields.io/badge/-MySQL-00003C?&logo=MySQL&logoColor=4479A1)](https://www.mysql.com/)
 
 ### Autres
