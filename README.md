@@ -40,7 +40,7 @@ Actuellement en formation Concepteur Développeur d'Applications *(niveau 6, Bac
 
 [![LinkedIn](https://img.shields.io/badge/-Maxence%20Leduc-00003C?logo=LinkedIn&logoColor=0e76a8)](https://www.linkedin.com/in/maxence-leduc-devweb/)
 [![Mail](https://img.shields.io/badge/-leduc.mxc@gmail.com-00003C?logo=Mail.ru&logoColor=white)](mailto:leduc.mxc@gmail.com)
-[![Discord](https://img.shields.io/badge/-Maxence%20Leduc%234409-00003C?logo=Discord&logoColor=white)]()
+[![Discord](https://img.shields.io/badge/-maxenceldc-00003C?logo=Discord&logoColor=white)]()
 
 
 <img src="sponge-bob.gif" width="300px" align="middle">
