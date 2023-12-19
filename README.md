@@ -2,9 +2,7 @@
 <img src="pop-salue.gif" width="300px" align="middle">
 
 ## **Je suis un Développeur Web**
-Actuellement en formation Développeur Web et Web Mobile *(niveau 5, Bac +2)*, jusqu'au 27 Septembre 2023.
-
-Je commence une formation Concepteur Développeur d'Applications, le 09 Octobre 2023, en alternance. Mon école sera le CESI de Grenoble, et mon entreprise ST Microelectronics, à Crolles.
+Actuellement en formation Concepteur Développeur d'Applications *(niveau 6, Bac +3)*, en alternance jusqu'au 13 Septembre 2024.
 
 
 ## **Mes Compétences**
@@ -17,6 +15,7 @@ Je commence une formation Concepteur Développeur d'Applications, le 09 Octobre 
 [![CSS3](https://img.shields.io/badge/-CSS3-00003C?&logo=CSS3&logoColor=1572B6)](https://developer.mozilla.org/fr/docs/Web/CSS)
 [![PHP](https://img.shields.io/badge/-PHP-00003C?&logo=PHP&logoColor=777BB4)](https://www.php.net)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-00003C?&logo=JavaScript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/-Python-00003C?&logo=Python&logoColor=3776AB)](https://www.python.org/)
 
 [![MarkDown](https://img.shields.io/badge/-Markdown-00003C?logo=Markdown&logoColor=009688)](https://www.markdownguide.org/)
 
@@ -40,7 +39,7 @@ Je commence une formation Concepteur Développeur d'Applications, le 09 Octobre 
 ## **Mon Contact**
 
 [![LinkedIn](https://img.shields.io/badge/-Maxence%20Leduc-00003C?logo=LinkedIn&logoColor=0e76a8)](https://www.linkedin.com/in/maxence-leduc-devweb/)
-[![Mail](https://img.shields.io/badge/-maxence.leduc@yahoo.com-00003C?logo=Mail.ru&logoColor=white)](mailto:maxence.leduc@yahoo.com)
+[![Mail](https://img.shields.io/badge/-leduc.mxc@gmail.com-00003C?logo=Mail.ru&logoColor=white)](mailto:leduc.mxc@gmail.com)
 [![Discord](https://img.shields.io/badge/-Maxence%20Leduc%234409-00003C?logo=Discord&logoColor=white)]()
 
 
